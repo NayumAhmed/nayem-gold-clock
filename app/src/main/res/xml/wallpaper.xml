@@ -1,3 +1,2 @@
 <wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
-    android:description="Live AMOLED black and gold clock with Arabic calligraphy"
- />
+    android:description="@string/wallpaper_description" />
